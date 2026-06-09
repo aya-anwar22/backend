@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vkpEKjPKefs=",
+  "success": true,
+  "projectFilePath": "/home/ayaanwar/projects/test/backend/SimpleApi.csproj",
+  "expectedPackageFiles": [
+    "/home/ayaanwar/.nuget/packages/microsoft.aspnetcore.openapi/9.0.15/microsoft.aspnetcore.openapi.9.0.15.nupkg.sha512",
+    "/home/ayaanwar/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
