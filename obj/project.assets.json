@@ -80,11 +80,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ayaanwar/projects/clinc/clinic-backend/SimpleApi.csproj",
+      "projectUniqueName": "/home/ayaanwar/projects/test/backend/SimpleApi.csproj",
       "projectName": "SimpleApi",
-      "projectPath": "/home/ayaanwar/projects/clinc/clinic-backend/SimpleApi.csproj",
+      "projectPath": "/home/ayaanwar/projects/test/backend/SimpleApi.csproj",
       "packagesPath": "/home/ayaanwar/.nuget/packages/",
-      "outputPath": "/home/ayaanwar/projects/clinc/clinic-backend/obj/",
+      "outputPath": "/home/ayaanwar/projects/test/backend/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/ayaanwar/.nuget/NuGet/NuGet.Config"

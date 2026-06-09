@@ -1,0 +1,25 @@
+name: Backend CI
+
+on:
+  pull_request:
+    branches: ["develop"]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: "8.0"
+
+      - run: dotnet restore
+        working-directory: backend
+
+      - run: dotnet build --no-restore
+        working-directory: backend
+
+      - run: dotnet test
+        working-directory: backend
